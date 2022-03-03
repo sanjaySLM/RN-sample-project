@@ -1,7 +1,4 @@
 # RN-sample-project
-This app contains two screens (List , add) and four kinds of controllers with Redux flow
-
-# React Native Application Starter Project - Employee  
 
 This  application is a boiler plate for React Native Apps with some basic components and Redux Flow.
 
